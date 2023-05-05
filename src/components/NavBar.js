@@ -4,7 +4,6 @@ import './NavBar.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHouse, faFilePen, faArrowRightToBracket } from '@fortawesome/free-solid-svg-icons'
 
-
 const NavBar = ({ isAuth }) => {
     return (
         <nav>
